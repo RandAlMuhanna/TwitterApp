@@ -13,7 +13,7 @@ struct TwitterAppApp: App {
         WindowGroup {
             
             NavigationView {
-                WritingTweetView()
+                LogInView()
             }
         }
     }
